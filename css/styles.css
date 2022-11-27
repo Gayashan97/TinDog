@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+/* Title Section */
+#title{
+    text-align: center;
+    background-color: #EC255A;
+}
+
+#title nav{
+    padding: 3% 10%;
+}
+
+#title .nav-link{
+    font-size: 1.5rem;
+}
+
+.logo{
+    font-size: 4rem; 
+    font-family: 'Dela Gothic One', cursive;
+}
+
+.intro{ 
+    text-align: left;
+    width: 70%;
+    margin: 7% auto 0;
+}
+
+.download-btn{
+    margin: 1%;
+}
+
+.heading{
+    font-size: 3.5rem;
+    color: white;
+    font-family: 'Suez One', serif;
+}
+
+.img{
+    transform: rotate(20deg);
+    width: 60%;
+    position: relative;
+    bottom: 10%;
+}
+
+/* Features Section */
+#features{
+    margin: auto;
+    padding: 5%;
+    width: 80%;
+    text-align: center;
+}
+
+.features-info{
+    width: 70%;
+    margin: auto;
+    color: grey;
+}
+
+.icon{
+    color: palevioletred;
+    font-size: 2.5rem;
+    margin-bottom: 3%;
+}
+
+.icon:hover{
+    color: #EC255A;
+}
+
+/* Testimonials Section */
+#testimonials{
+    background-color: #EC255A;
+}
+
+.testimonial-heading{
+    color: white;
+    font-weight: bold;
+}
+
+.testimonial-carousel{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.item-box{
+    padding: 20px;
+    text-align: center;
+    margin: 20px auto;
+    width: 50%;
+    color: white;
+}
+
+.testimonial-image{
+    border-radius: 100%;
+    width: 30%;
+    margin: 5%;
+}
+
+/* Press Section */
+#press{
+    background-color: #EC255A;
+    text-align: center;
+    
+}
+
+.press-img{
+    margin: 2%;
+    width: 20%;
+}
+
+/* Pricing Section */
+#pricing{
+    text-align: center;
+    margin: 5%;
+}
+
+.pricing-des{
+    color: grey;
+}
+
+/* CTA Section */
+#cta{
+    text-align: center;
+    padding: 5%;
+    background-color: #EC255A;
+    color: white;
+}
+
+.final{
+    width: 35%;
+    margin: auto;
+}
+
+.final-heading{
+    color: white;
+    font-size: 2rem;
+    font-family: 'Suez One', serif;
+    line-height: 1.5;
+    margin-bottom: 5%;
+}
+
+/* Footer Section */
+#footer{
+    text-align: center;
+    padding: 3%;
+}
+
+.footer-icon{
+    margin: 1%;
+    font-size: 1.5rem;
+}
